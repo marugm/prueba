@@ -1,0 +1,39 @@
+/* Estiloooo */
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.contenedor { 
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cabecera { 
+    float: left;
+    background-color: plum;
+    height: 200px;
+    width: 80%;
+}
+
+.menu { 
+    float: right;
+    background-color: powderblue;
+    height: 400px;
+    width: 20%;
+}
+
+.cabecera2 { 
+    float: left;
+    background-color: tomato;
+    height: 200px;
+    width: 80%;
+}
+
+.pie { 
+    clear: both;
+    background-color: mediumpurple;
+    height: 100px;
+    width: 100%;
+}
